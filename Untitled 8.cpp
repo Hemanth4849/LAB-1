@@ -3,7 +3,7 @@ int main()
 {
 	float a,b,c,d;
 	printf("Enter the distance in kilometres");
-	scanf("%f",a);
+	scanf("%f",&a);
 	b=a*1000;
 	c=a*100000;
 	d=a*1000000;
